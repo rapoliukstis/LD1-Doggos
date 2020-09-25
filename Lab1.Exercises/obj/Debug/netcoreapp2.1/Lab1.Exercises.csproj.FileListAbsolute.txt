@@ -1,0 +1,12 @@
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\bin\Debug\netcoreapp2.1\Lab1.Exercises.deps.json
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\bin\Debug\netcoreapp2.1\Lab1.Exercises.runtimeconfig.json
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\bin\Debug\netcoreapp2.1\Lab1.Exercises.runtimeconfig.dev.json
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\bin\Debug\netcoreapp2.1\Lab1.Exercises.dll
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\bin\Debug\netcoreapp2.1\Lab1.Exercises.pdb
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\obj\Debug\netcoreapp2.1\Lab1.Exercises.csprojAssemblyReference.cache
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\obj\Debug\netcoreapp2.1\Lab1.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\obj\Debug\netcoreapp2.1\Lab1.Exercises.AssemblyInfoInputs.cache
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\obj\Debug\netcoreapp2.1\Lab1.Exercises.AssemblyInfo.cs
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\obj\Debug\netcoreapp2.1\Lab1.Exercises.dll
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\obj\Debug\netcoreapp2.1\Lab1.Exercises.pdb
+C:\Users\Rapolas\Documents\Coding\Lab1.Exercises.Register\Lab1.Exercises\bin\Debug\netcoreapp2.1\Dogs.csv
